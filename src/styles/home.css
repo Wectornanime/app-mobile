@@ -4,12 +4,6 @@ header {
     text-align: center;
 }
 
-main {
-    width: 90%;
-    max-width: 700px;
-    margin: auto;
-}
-
 .custom-input {
     display: flex;
     align-items: center;

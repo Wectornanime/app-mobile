@@ -15,3 +15,5 @@ MyColection is a simple project in HTML/CSS
 [SteamGridDB](https://www.steamgriddb.com/)
 
 [LaunchBox Games Database](https://gamesdb.launchbox-app.com/)
+
+[ion-icons](http://ionicons.com/)
