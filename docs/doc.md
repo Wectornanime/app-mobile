@@ -9,3 +9,9 @@ MyColection is a simple project in HTML/CSS
 [Bridal Colection](https://dribbble.com/shots/23432722-Bridal-Colection)
 
 [Favicon](https://www.flaticon.com/free-icon/library_224595)
+
+## Datas and assets
+
+[SteamGridDB](https://www.steamgriddb.com/)
+
+[LaunchBox Games Database](https://gamesdb.launchbox-app.com/)
