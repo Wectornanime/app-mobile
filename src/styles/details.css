@@ -1,5 +1,10 @@
 @import url('style.css');
 
+ion-icon {
+    height: 16px;
+    width: 16px;
+}
+
 header {
     margin: 0;
     width:  100%;
@@ -23,11 +28,10 @@ header > div {
     align-items: end;
 }
 
-
-
 .firstInfo {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
     gap: 10px;
 }
 
@@ -36,6 +40,8 @@ header > div {
     border-radius: 10px;
     display: flex;
     align-items: center;
+    gap: 5px;
     padding: 2px;
-    width: 170px;
+    width: 130px;
+    
 }
