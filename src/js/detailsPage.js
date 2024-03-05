@@ -19,8 +19,8 @@ req.onload = () => {
                 gameName.innerText = game.name;
                 release.innerText = game.release;
                 plataform.innerText = game.plataform;
-                players.innerText = `${game.players} jogadores`;
                 about.innerText = game.about;
+                players.innerText = (game.players > 1) ? (`${game.players} jogadores`) : (`${game.players} jogador`);
             }
         });
     };
