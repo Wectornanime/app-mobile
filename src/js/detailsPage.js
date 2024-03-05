@@ -20,6 +20,7 @@ req.onload = () => {
                 release.innerText = game.release;
                 plataform.innerText = game.plataform;
                 players.innerText = `${game.players} jogadores`;
+                about.innerText = game.about;
             }
         });
     };
