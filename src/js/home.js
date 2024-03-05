@@ -10,7 +10,7 @@ req.onload = () => {
         for (const value of Object.values(res)) {
             content = `
             <div class="card">
-                <a href="detailsGame.html?id=${value.id}"><img src="${value.image}" alt="${value.imgAlt}"></a>
+                <a href="detailsGame.html?id=${value.id}"><img src="${value.imgCover}" alt="${value.imgAlt}"></a>
             </div>
             `;
             contents.push(content);

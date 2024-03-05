@@ -1,17 +1,19 @@
 [
     {
         "id": 1,
-        "image": "https://cdn2.steamgriddb.com/grid/90c314d3631e4cd7fe6c04a453cdf839.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/90c314d3631e4cd7fe6c04a453cdf839.png",
+        "imgBanner": "https://images.launchbox-app.com/457b9f42-0b17-41f1-9b0b-5cc855101602.jpg",
         "imgAlt": "Dragon Ball Advanced Adventure",
         "name": "Dragon Ball Advanced Adventure",
-        "about": "",
-        "release": "",
-        "plataform": "",
-        "players": ""
+        "about": "Dragon Ball: Advanced Adventure segue as façanhas do jovem Goku enquanto ele parte pela primeira vez em busca das lendárias Dragon Balls. Baseado nos primeiros capítulos do mangá (antes da série se transformar na série Dragon Ball Z), os jogadores abrem caminho através dos níveis de plataforma, derrotando incontáveis ​​capangas e chefes inspirados em eventos e personagens cruciais da série. Embora os níveis do jogo sejam brigas diretas, duelos especiais e sequências de torneios funcionam como jogos de luta clássicos, embora com controles simplificados. Goku pode socar, chutar e usar seu bastão mágico. Após certo ponto do jogo, ao obter o Flying Nimbus, ele recebe a habilidade de entrar em combate aéreo. Depois de completar o modo história, os personagens de duelo ficam disponíveis para lutas individuais personalizáveis. Personagens e minijogos adicionais podem ser desbloqueados satisfazendo requisitos especiais, por ex. completar o modo história desbloqueia o demônio de Goku, Kuririn, como personagem jogável.",
+        "release": "18/11/2004",
+        "plataform": "GBA",
+        "players": "2"
     },
     {
         "id": 2,
-        "image": "https://cdn2.steamgriddb.com/grid/a687f78b9842c87225e74921765feb1b.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/a687f78b9842c87225e74921765feb1b.png",
+        "imgBanner": "",
         "imgAlt": "The Legend of Zelda the Minish Cap",
         "name": "The Legend of Zelda the Minish Cap",
         "about": "",
@@ -21,7 +23,8 @@
     },
     {
         "id": 3,
-        "image": "https://cdn2.steamgriddb.com/grid/befa1d1faf9bc95c1a29d30ea9a751a2.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/befa1d1faf9bc95c1a29d30ea9a751a2.png",
+        "imgBanner": "",
         "imgAlt": "Donkey Kong Country",
         "name": "Donkey Kong Country",
         "about": "",
@@ -31,7 +34,8 @@
     },
     {
         "id": 4,
-        "image": "https://cdn2.steamgriddb.com/grid/84e9ed819069d5b01185ed02b2bfb353.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/84e9ed819069d5b01185ed02b2bfb353.png",
+        "imgBanner": "",
         "imgAlt": "Sonic the Hedgehog",
         "name": "Sonic the Hedgehog",
         "about": "",
@@ -41,7 +45,8 @@
     },
     {
         "id": 5,
-        "image": "https://cdn2.steamgriddb.com/grid/4ea0c24cb2b668c8b95879af75d3c511.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/4ea0c24cb2b668c8b95879af75d3c511.png",
+        "imgBanner": "",
         "imgAlt": "H.E.R.O",
         "name": "H.E.R.O",
         "about": "",
@@ -51,7 +56,8 @@
     },
     {
         "id": 6,
-        "image": "https://cdn2.steamgriddb.com/grid/f293653ffa5c0e53453463a82401dbec.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/f293653ffa5c0e53453463a82401dbec.png",
+        "imgBanner": "",
         "imgAlt": "Super Mario 64",
         "name": "Super Mario 64",
         "about": "",
@@ -61,7 +67,8 @@
     },
     {
         "id": 7,
-        "image": "https://cdn2.steamgriddb.com/grid/c7407167f6863de2f421f9d2f6db837e.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/c7407167f6863de2f421f9d2f6db837e.png",
+        "imgBanner": "",
         "imgAlt": "The Legend of Zelda Four Swords",
         "name": "The Legend of Zelda Four Swords",
         "about": "",
@@ -71,7 +78,8 @@
     },
     {
         "id": 8,
-        "image": "https://cdn2.steamgriddb.com/grid/aba25a9fda63263672f8e84b6d7a4c6e.png",
+        "imgCover": "https://cdn2.steamgriddb.com/grid/aba25a9fda63263672f8e84b6d7a4c6e.png",
+        "imgBanner": "",
         "imgAlt": "The Legend of Zelda Tri Force Heroes",
         "name": "The Legend of Zelda Tri Force Heroes",
         "about": "",
