@@ -20,5 +20,5 @@ req.onload = () => {
     };
 };
 
-req.open('GET', '../data/games.json');
+req.open('GET', 'data/games.json');
 req.send();
