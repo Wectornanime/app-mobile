@@ -8,24 +8,39 @@ ion-icon {
 header {
     margin: 0;
     width:  100%;
-    height: 30vh;
+    height: 40vh;
     overflow: hidden;
     position: relative;
     display: flex;
     background: linear-gradient(rgba(0, 0, 0, 0.9), transparent);
 }
 
-header > img {
+header .detailBackground {
     width: 100%;
+    height:  100%;
     opacity: 0.5;
+    position: absolute;
+}
+
+header .detailImage {
+    width: 100%;
+    height: 100%;
+    top: 0px;
     position: absolute;
     object-fit: cover;
 }
 
-header > div {
+header .logo {
     z-index: 1;
     display: flex;
     align-items: end;
+    max-width: 250px;
+    width: 40%;
+    margin: 10px;
+}
+
+.logo img {
+    width: 100%;
 }
 
 .firstInfo {

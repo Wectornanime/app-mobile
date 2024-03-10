@@ -3,7 +3,7 @@ const params = new URLSearchParams(window.location.search);
 const id = params.get("id");
 
 const detailImage = document.querySelector("img.detailImage");
-const gameName = document.querySelector("h1.gameName");
+const gameLogo = document.querySelector("img.logoImg");
 const release = document.querySelector("p.release");
 const plataform = document.querySelector("p.plataform");
 const players = document.querySelector("p.players");
@@ -16,7 +16,9 @@ req.onload = () => {
         data.forEach(game => {
             if (game.id === Number(id)){
                 detailImage.src = game.imgBanner;
-                gameName.innerText = game.name;
+                detailImage.alt = `Imagem do jogo ${game.name}`;
+                gameLogo.src = game.logo;
+                gameLogo.alt = `Logo do jogo ${game.name}`;
                 release.innerText = game.release;
                 plataform.innerText = game.plataform;
                 about.innerText = game.about;
